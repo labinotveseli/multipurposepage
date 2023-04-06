@@ -9,6 +9,7 @@ It's a static webpage, for a development company.
 
 - <b>HTML</b>
 - <b>CSS</b>
+- <b>JS(for swiper)</b>
 - <b>Figma</b>
 
 <h2>Website walk-through:</h2>
