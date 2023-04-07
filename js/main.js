@@ -21,8 +21,6 @@ var swiper = new Swiper(".testimonial_swiper", {
     }
 });
 
-console.log("Hello World console");
-alert("Hello World");
 
 let firstNumber = 4;
 const secondNumber = 5;
