@@ -14,6 +14,9 @@ It's a static webpage, for a development company. It contains 3 pages and can be
 
 <h2>Website walk-through:</h2>
 
+<b>You can try the Demo of this website here:</b> 
+  - [Multipurpose - Landing Page](https://multipurpose-site.netlify.app/)
+<hr>
 <p align="center">
 <b>Landing Page with various sections like Services, Blog, Portfolio, and Contact Information:</b>
 <hr>
